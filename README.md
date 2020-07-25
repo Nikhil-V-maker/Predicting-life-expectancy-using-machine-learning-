@@ -7,6 +7,8 @@ Project demonstration video <a href="https://drive.google.com/file/d/1EpoDP3AKJF
 
 Feedback video <a href="https://drive.google.com/file/d/1nEN9GnUL1iR0hdZ75LEwI7Ytp_-yTccf/view?usp=sharing">https://drive.google.com/file/d/1nEN9GnUL1iR0hdZ75LEwI7Ytp_-yTccf/view?usp=sharing</a>
 
+<img src="https://github.com/Nikhil-V-maker/Predicting-life-expectancy-using-machine-learning-/blob/master/Screenshots/Output_1.png" >
+
 Project Name: Predicting Life Expectancy using machine learning<br>
 Kick off date: 06-06-2020<br>
 
